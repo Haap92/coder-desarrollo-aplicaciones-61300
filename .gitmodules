@@ -1,3 +1,6 @@
 [submodule "Desafio-1-20240118/proyecto-prueba"]
 	path = Desafio-1-20240118/proyecto-prueba
 	url = https://github.com/Haap92/desafio-1-20240118.git
+[submodule "Desafio-2-20240130/retro-gaming"]
+	path = Desafio-2-20240130/retro-gaming
+	url = https://github.com/Haap92/desafio-2-20240130.git

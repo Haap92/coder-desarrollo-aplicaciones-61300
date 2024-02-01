@@ -1,0 +1,4 @@
+**/Desafio-1-20240118/proyecto-prueba/node_modules
+
+dist/
+**/**/*.log
