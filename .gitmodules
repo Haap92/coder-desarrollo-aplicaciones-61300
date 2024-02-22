@@ -7,3 +7,6 @@
 [submodule "Desafio-3-20240206/retro-gaming"]
 	path = Desafio-3-20240206/retro-gaming
 	url = https://github.com/Haap92/desafio-3-20240206.git
+[submodule "Desafio-4-20240222/retro-gaming"]
+	path = Desafio-4-20240222/retro-gaming
+	url = https://github.com/Haap92/desafio-4-20240222.git
